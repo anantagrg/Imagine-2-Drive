@@ -1,4 +1,4 @@
-# LeGo-Drive: Language-enhanced Goal-oriented <br> Closed-Loop End-to-End Autonomous Driving
+# Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles
 
 ![Teaser](/assests/teaser-wide.png)
 
