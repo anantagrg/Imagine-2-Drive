@@ -2,7 +2,7 @@ Code coming soon!
 
 # Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles
 
-[Anant Garg](https://anantagrg.github.io/) <sup>\1</sup>,
+[Anant Garg](https://anantagrg.github.io/) <sup>1</sup>,
 [Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/) <sup>1</sup>,
 
 ![Teaser](/static/images/teaser.jpg)
