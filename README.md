@@ -1,6 +1,6 @@
 # Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles
 
-![Teaser](/static/teaser.jpg)
+![Teaser](/static/images/teaser.jpg)
 
 <table align="center" border="0">
     <tr>
