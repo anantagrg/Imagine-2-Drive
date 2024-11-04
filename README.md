@@ -29,3 +29,7 @@ Code coming soon!
 
 <hr>
 
+## Contact
+
+Anant Garg: garg.anant205@gmail.com <br>
+
