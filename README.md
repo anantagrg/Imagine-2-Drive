@@ -34,6 +34,19 @@ Code coming soon!
 
 <hr>
 
+## Citation
+```
+@misc{garg2024imagine2drivehighfidelityworldmodeling,
+      title={Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles}, 
+      author={Anant Garg and K Madhava Krishna},
+      year={2024},
+      eprint={2411.10171},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2411.10171}, 
+}
+```
+
 ## Contact
 
 Anant Garg: garg.anant205@gmail.com <br>
