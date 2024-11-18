@@ -20,6 +20,11 @@ Code coming soon!
             </a>
         </td> -->
         <td align="center">
+            <a href="https://arxiv.org/abs/2411.10171" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/ArXiv-000000?style=for-the-badge&logoColor=white&logo=arxiv" alt="ArXiv Logo">
+            </a>
+        </td>
+        <td align="center">
             <a href="https://www.youtube.com/watch?v=56etmpWrnFg" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Logo">
             </a>
